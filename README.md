@@ -1,5 +1,5 @@
-# ds-phyton-fundamental
-Library of my data science project. Mostly using basic phyton technic and packages.
+# ds-python-fundamental
+Library of my data science project. Mostly using basic python technic and packages.
 
 ## List of Projects
 
