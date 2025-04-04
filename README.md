@@ -1,5 +1,5 @@
 # ds-python-fundamental
-Library of my data science project. Mostly using basic python technic and packages.
+Library of my data science project. Mostly using basic python technic and packages. 
 
 ## List of Projects
 
@@ -22,3 +22,7 @@ Library of my data science project. Mostly using basic python technic and packag
    - pandas, numpy, matplotlib.pyplot, seaborn
    - exploratory data analysis (EDA)
    - analyzing crime data to guide how the police should allocate resources to protect the people of LA.
+  
+
+## Datasets Availability
+All of the datasets used for the each project are stored in my personal google drive and available upon request.
