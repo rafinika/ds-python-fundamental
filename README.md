@@ -1,5 +1,5 @@
 # ds-python-fundamental
-Library of my data science project. Mostly using basic python technic and packages. 
+Library of my data science project.
 
 ## List of Projects
 
