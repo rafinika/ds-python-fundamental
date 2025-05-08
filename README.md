@@ -24,8 +24,6 @@ Library of my data science project.
    - analyzing crime data to guide how the police should allocate resources to protect the people of LA.
   
 
-## Datasets Availability
-All of the datasets used in each project are stored in my personal google drive and available upon request.
 
 ## Acknowledgement
 Case studies, datasets, and tasks in each project are from DataCamp platform. The solution itself is coded by me.
